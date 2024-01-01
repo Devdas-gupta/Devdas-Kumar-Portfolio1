@@ -8,6 +8,10 @@ Welcome to my personal portfolio! This repository contains the source code for m
 - [Skills](#skills)
 - [Contact Me](#contact-me)
 
+## Preview
+
+![Profile Card Preview](https://devdas-gupta.github.io/Devdas-Kumar-Portfolio1/profile.html)
+
 ## About
 
 My name is Devdas Kumar, and I am a passionate Cyber Security Engineer. This portfolio showcases my skills, projects, and provides a glimpse into my journey.
