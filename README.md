@@ -10,7 +10,7 @@ Welcome to my personal portfolio! This repository contains the source code for m
 
 ## Preview
 
-![Profile Card Preview](https://devdas-gupta.github.io/Devdas-Kumar-Portfolio1/profile.html)
+You can preview my portfolio [here](https://devdas-gupta.github.io/Devdas-Kumar-Portfolio1/profile.html).
 
 ## About
 
